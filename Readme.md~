@@ -1,5 +1,0 @@
-# Towers of Hanoi
-
-A [rejection sampling](https://en.wikipedia.org/wiki/Rejection_sampling) implementation inspired by the [Ziggurat algorithm](https://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html).
-
-The included example illustrates the advantages that rejection sampling provides over naive random sampling methods. Namely, rejection sampling can accelerate random sampling from a specified bounded domain (e.g. $x \in [4, 5]$)--- in this example, samples are drawn from a normal distribution.
